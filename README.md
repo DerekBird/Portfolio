@@ -1,4 +1,4 @@
-#Assignment
+# Assignment
 For this project we were assigned with creating a responsive portfolio. To complete this project we used the Bootstrap CSS framework. 
 
 
