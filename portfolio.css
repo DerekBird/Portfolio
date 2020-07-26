@@ -1,0 +1,34 @@
+/* Portfolio */
+
+.squares{
+    margin-top: 175px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #94dacb;
+}
+
+ .card {
+    border: 1px solid white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5ca2be;
+}
+.card-img-top{
+    width: 250px;
+    height: 250px;
+    background-color: #154d6e;
+}
+
+.card-text {
+   font-size: 40px;
+   color: #0c3813;
+}
+.card-text:hover{
+    color: #476d6d;
+    text-decoration: underline;
+}

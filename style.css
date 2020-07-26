@@ -1,0 +1,84 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.navbar-collapse {
+    text-align: right;
+}
+
+.logo-image {
+    width: 36px;
+    height: auto;
+    margin-left: 32px;
+}
+
+.default-color {
+    background-color: #177fd4;
+    color: black;
+    border-color: white;
+}
+body {
+    background-color: black;
+    margin-bottom: 60px;
+}
+
+.mt {
+    margin-top: 128px;
+}
+
+.border {
+    border: 1px solid;
+    padding: 5px;
+    border-color: white;
+    border-radius: 4px;
+}
+
+.about {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    background-color:#94dacb;
+}
+
+p {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    font-family: 'Sora', sans-serif;
+}
+
+h1 {
+    margin: 20px;
+    font-family: 'Sora', sans-serif;;
+}
+
+h3 {
+    margin-top: 20px;
+    font-family: 'Sora', sans-serif;;
+}
+.rounded {
+    background-color:#444;
+    border: 1px solid;
+    
+}
+
+#contactinfo {
+    background-color: #94dacb;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 5rem;
+
+}
+
+
+footer {
+    color:white;
+    bottom: 0;
+    border-radius: 1px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-family: 'Sora', sans-serif;
+}
+
